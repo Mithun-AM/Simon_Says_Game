@@ -6,8 +6,6 @@ This is a classic **Simon Says** memory game built using HTML, CSS, and JavaScri
 
 ## Deployment
 
-You can play the game directly from the web via GitHub Pages. After pushing the project to your GitHub repository, enable GitHub Pages in your repository settings.
-
 Here is the link to the deployed version of the game:  
 [Simon Says Game - GitHub Pages](https://mithun-am.github.io/Simon_Says_Game/)
 
@@ -33,7 +31,7 @@ To run the **Simon Says** game locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Mithun-AM/simon-says.git
+   git clone https://github.com/Mithun-AM/Simon_Says_Game.git
 
 ## How to Run
 1. Clone the repository to your local machine.
